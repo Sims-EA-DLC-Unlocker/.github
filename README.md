@@ -7,7 +7,7 @@ A simple and easy tool, designed for unlock and manage DLCs for **Sims 4** on EA
 ## 🔗 Latest Release 
 
 - **💾 Version 2.4.0.6** – *Tool files & folders*  
-  👉 [The Latest Release]()
+  👉 [The Latest Release](https://github.com/Sims-EA-DLC-Unlocker/.github/releases)
 
 ---
 
